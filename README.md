@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my skills in Flutter<br>👯 I’m looking to collaborate on VR projects<br>🌱 I’m currently learning how to screw bones in AR and track them for accuracy. <br>💬 Ask me about Virtual Reality or Augmented Reality<br>⚡ Fun fact: I used to be a database administrator, and switched my whole specialization towards XR in the past 2-3 years.
+🔭 I’m currently working on developing my skills in Flutter<br>👯 I’m looking to collaborate on VR/AR projects<br>🌱 I’m currently learning how to cotrol real robots in VR. <br>💬 Ask me about Virtual Reality or Augmented Reality<br>⚡ Fun fact: I used to be a database administrator, and switched my whole specialization towards XR in the past 2-3 years.
 
 
 ## 🌐 Socials:
