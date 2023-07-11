@@ -1,6 +1,7 @@
 
 💫 About Me:
-I'm Mohamed Mansuri, a trailblazer in the extended reality world, dancing between VR and AR. 👓🌐 I love breaking barriers, so much so that I swapped a career in database administration to dive headfirst into XR five years ago! 🔀
+
+#I'm Mohamed Mansuri, a trailblazer in the extended reality world, dancing between VR and AR. 👓🌐 I love breaking barriers, so much so that I swapped a career in database administration to dive headfirst into XR five years ago! 🔀
 
 At present, I'm harnessing the power of Flutter and getting my hands dirty with the exciting realm of controlling robots in VR. 🤖🕹️ Always eager to partner up on VR/AR projects that defy the ordinary! 👯‍♂️
 
