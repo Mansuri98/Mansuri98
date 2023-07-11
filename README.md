@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on developing my skills in Flutter<br>👯 I’m looking to collaborate on VR/AR projects<br>🌱 I’m currently learning how to cotrol real robots in VR. <br>💬 Ask me about Virtual Reality or Augmented Reality<br>⚡ Fun fact: I used to be a database administrator, and switched my whole specialization towards XR in the past 2-3 years.
+
+💫 About Me:
+I'm Mohamed Mansuri, a trailblazer in the extended reality world, dancing between VR and AR. 👓🌐 I love breaking barriers, so much so that I swapped a career in database administration to dive headfirst into XR five years ago! 🔀
+
+At present, I'm harnessing the power of Flutter and getting my hands dirty with the exciting realm of controlling robots in VR. 🤖🕹️ Always eager to partner up on VR/AR projects that defy the ordinary! 👯‍♂️
+
+Want to chat about the possibilities of Virtual Reality or Augmented Reality? I'm all ears! 💬
+
+⚡ Fun fact: When I'm not making the virtual real, I'm probably daydreaming about it. Living and breathing XR, one day at a time. 🚀
 
 
 ## 🌐 Socials:
