@@ -30,6 +30,8 @@ Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansuri98&theme=algolia" alt="Mansuri98" /></p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansuri98&show_icons=true&theme=algolia)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mansuri98&theme=algolia)
 
 
 ### 💡 Random Dev Quote:
