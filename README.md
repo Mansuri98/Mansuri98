@@ -76,9 +76,3 @@ Witness my journey through my contributions - a testament to my commitment to ev
 
 ---
 [![Visits Badge](https://visitcount.itsvg.in/api?id=Mansuri98&icon=0&color=6)](https://visitcount.itsvg.in)
-
-## ☕ Buy Me a Coffee
-
-Like my work? You can help fuel my coding adventures by buying me a coffee! ☕ 🙌 
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mansurii)
