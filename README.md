@@ -10,7 +10,6 @@ Interested in stitching the fabric of reality with some cool VR/AR projects? Let
 
 Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 🎙️ 🎉
 
-⚡ Fun Fact: I'm probably the only person you'll meet who daydreams in VR! Living and breathing XR, 24x7. 🎈
 
 ## 🌐 Connect & Collaborate
 
