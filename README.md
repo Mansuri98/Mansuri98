@@ -67,7 +67,6 @@ Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 
 </p>
 
 ## 🔗 Streaks & Contributions
-Witness my journey through my contributions - a testament to my commitment to evolving and expanding the XR landscape.
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansuri98&theme=algolia" alt="Mansuri98" /></p>
 
