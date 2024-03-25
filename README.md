@@ -71,6 +71,3 @@ Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 
 
 ### 💡 Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![Visits Badge](https://visitcount.itsvg.in/api?id=Mansuri98&icon=0&color=6)](https://visitcount.itsvg.in)
