@@ -61,9 +61,10 @@ Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 
 
 # 📊 My Digital Footprint
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mansuri98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mansuri98&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mansuri98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&refresh=1"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mansuri98&layout=compact&langs_count=8&theme=algolia&refresh=1"/>
 </p>
+
 
 ## 🔗 Streaks & Contributions
 
