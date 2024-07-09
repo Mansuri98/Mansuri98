@@ -61,14 +61,16 @@ Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 
 
 # 📊 My Digital Footprint
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mansuri98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&refresh=1"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mansuri98&layout=compact&langs_count=8&theme=algolia&refresh=1"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansuri98&theme=algolia"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mansuri98&theme=algolia"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mansuri98&theme=algolia"/>
 </p>
 
-
 ## 🔗 Streaks & Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansuri98&theme=algolia" alt="Mansuri98" />
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansuri98&theme=algolia" alt="Mansuri98" /></p>
 
 ### 💡 Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
