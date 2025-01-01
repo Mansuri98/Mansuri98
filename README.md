@@ -1,21 +1,17 @@
-# 👽 Who's this?
+# Hi there, I'm Mansuri 👋
 
-Hey there, digital wanderers! I'm **Mohamed Mansuri**, just another tech nomad exploring the vast desert of innovation. At present, I'm moonlighting as a VR/AR Pioneer, leaving my footprints all over the Extended Reality landscape.  👀💫
+![Profile Views](https://komarev.com/ghpvc/?username=Mansuri98&color=blue)
 
-Switched from being a Database Admin to a full-time XR enthusiast 5 years ago, and haven't looked back since! ⏩ 🔄 
+## 🚀 About Me
 
-At present, my playfield is Flutter, and I'm meddling with the fascinating idea of puppeteering real robots in VR! 🎮🤖
+I'm a passionate software developer with a love for creating innovative solutions and learning new technologies.
 
-Interested in stitching the fabric of reality with some cool VR/AR projects? Let's collab! 🕺💼
+- 🔭 I’m currently working on VR Project for Education, AR project for Navigation and Turbelcnce Simulation for HPC.
+- 🌱 I’m currently learning Swift.
+- 👯 I’m looking to collaborate on AR/VR/MR Projects
+- 💬 Ask me about Extende Reality
 
-Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 🎙️ 🎉
-
-
-## 🌐 Connect & Collaborate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/mohamed-mansuri-vr-developer)
-
-## 🧰 Toolbox of Creation
+## 🛠️ Skills
 
 ### Languages & Frameworks
 
@@ -29,7 +25,6 @@ Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 
 ### Platforms & Tools
 
@@ -58,19 +53,22 @@ Ping me for intriguing talks around Virtual or Augmented Reality. I'm all game! 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## 📈 GitHub Stats
 
-# 📊 My Digital Footprint
-<p align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansuri98&theme=algolia"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mansuri98&theme=algolia"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mansuri98&theme=algolia"/>
-</p>
+![Mansuri98's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansuri98&show_icons=true&theme=radical)
 
-## 🔗 Streaks & Contributions
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansuri98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansuri98&theme=algolia" alt="Mansuri98" />
 </p>
 
+## 📫 Contact Me
 
-### 💡 Random Dev Quote:
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mohamed-mansuri-unity-developer/)
+- Email: [Your Email](mailto:mohamed.mansuri@tum.de)
+
+## 💡 Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
