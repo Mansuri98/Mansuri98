@@ -67,8 +67,8 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mohamed-mansuri-unity-developer/)
-- Email: [Your Email](mailto:mohamed.mansuri@tum.de)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mansuri-unity-developer/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.mansuri@tum.de)
 
 ## 💡 Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
